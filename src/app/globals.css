@@ -19,3 +19,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* .reveal-text {
+  font-weight: 800;
+  font-size: 80px;
+  line-height: 3rem;
+  color: #2A2A2A;
+  filter: drop-shadow(0 0 0.06rem rgb(2, 2, 2));
+} */
